@@ -1,7 +1,7 @@
 <h3 align="center"></h3>
 
 <h5 align="center">
-  <a href="https://me.easonzhan.xyz/">HomePage</a> 
+  <a href="https://me.easonzhan.xyz/">关于我</a> 
 </h5>
 
 <table width="100%" align="center">
