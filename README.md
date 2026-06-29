@@ -1,7 +1,34 @@
-<div>
+<h3 align="center"></h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EasonZe&layout=compact&theme=buefy)
+<h5 align="center">
+  <a href="https://me.easonzhan.xyz/">HomePage</a> 
+</h5>
 
-![EasonZe's GitHub stats](https://github-readme-stats.vercel.app/api?username=EasonZe&count_private=true&show_icons=true&theme=buefy)
-
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <a href="https://#gh-light-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api?username=EasonZe&show_icons=true&hide_border=true&bg_color=00000000&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+          height="200" />
+      </a>
+      <a href="https://#gh-dark-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api?username=EasonZe&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+          height="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://#gh-light-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=EasonZe&hide_border=true&layout=compact&langs_count=6&bg_color=00000000"
+          height="200" />
+      </a>
+      <a href="https://#gh-dark-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=EasonZe&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark"
+          height="200" />
+      </a>
+    </td>
+  </tr>
+</table
